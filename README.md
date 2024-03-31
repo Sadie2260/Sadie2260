@@ -1,9 +1,35 @@
-- 👋 Hi, I’m sadie @Sadie2260
-- 👀 I’m interested in coding and content writing...
-- 🌱 I’m currently learning react js and c++...
-- 💞️ I’m looking to collaborate on c++ and html...
+Hi there! 👋
+Welcome to my GitHub profile! I'm Sadia Shabbir, a passionate front-end developer on an exciting journey of continuous learning and growth.
 
-<!---
-Sadie2260/Sadie2260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+About Me:
+
+🔭 I'm currently honing my skills as a front-end developer, focusing on creating captivating user experiences.
+
+🌱 I'm always learning and exploring new technologies to stay updated with the latest trends in web development.
+
+💼 Currently, I'm proficient in React, Bootstrap, Redux Toolkit, HTML, CSS, and JavaScript.
+
+What I Do:
+
+As a front-end developer, I specialize in:
+
+Crafting intuitive user interfaces with React.
+
+Implementing responsive designs with Bootstrap.
+
+Managing application state efficiently with Redux Toolkit.
+
+Writing semantic HTML/CSS to ensure accessibility and maintainability.
+
+Bringing websites to life with dynamic behavior using JavaScript.
+
+Get in Touch:
+
+I'm open to collaboration, feedback, and new opportunities. Feel free to reach out to me via:
+
+Email: sadiashabbir814@gmail.com
+
+LinkedIn: https://linkedin.com/in/sadia-shabbir-772786255
+
+Let's connect and build something awesome together!
